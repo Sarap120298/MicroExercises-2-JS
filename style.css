@@ -1,0 +1,123 @@
+#nBigger,
+#threeNum,
+#numPair,
+#count-A,
+#draw-vowels,
+#count-vowels,
+#count-each-vowel,
+#divisible,
+#dividers,
+#common,
+#prime {
+    background-color: rgb(154, 154, 228);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    margin-top: 0;
+    align-content: center;
+    text-align: center;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 20px;
+}
+
+#show-bigger,
+#show-bigger-three,
+#show-divisible-two,
+#show-quantity-letters-A,
+#show-vowels,
+#show-count-vowels,
+#how-many-each-vowel-appears,
+#result,
+#given-dividers,
+#common-dividers,
+#prime-number {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    color: blue;
+    font-size: 25px;
+    font-weight: 1000;
+    align-content: center;
+    text-align: center;
+}
+
+#nBigger {
+    background-color: rgb(10, 238, 238);
+}
+
+#show-bigger {
+    color: rgb(1, 112, 112)
+}
+
+#threeNum {
+    background-color: rgb(245, 164, 135);
+}
+
+#show-bigger-three {
+    color: rgb(158, 76, 47);
+}
+
+#numPair {
+    background-color: rgb(236, 149, 167);
+}
+
+#show-divisible-two {
+    color: rgb(187, 19, 52);
+}
+
+#count-A {
+    background-color: rgb(243, 199, 88);
+}
+
+#show-quantity-letters-A {
+    color: rgb(95, 70, 7);
+}
+
+#draw-vowels {
+    background-color: rgb(240, 148, 240);
+}
+
+#show-vowels {
+    color: darkmagenta;
+}
+
+#count-vowels {
+    background-color: rgb(253, 167, 213);
+}
+
+#show-count-vowels {
+    color: rgb(179, 5, 97);
+}
+
+#count-each-vowel {
+    background-color: aquamarine;
+}
+
+#how-many-each-vowel-appears {
+    color: rgb(8, 161, 161);
+}
+
+#dividers {
+    background-color: rgb(178, 144, 207);
+}
+
+#given-dividers {
+    color: blueviolet;
+}
+
+#common {
+    background-color: rgb(103, 179, 182);
+}
+
+#common-dividers {
+    color: rgb(6, 77, 80);
+}
+
+#prime {
+    background-color: rgb(119, 159, 233);
+}
+
+#prime-number {
+    color: rgb(8, 67, 177);
+    ;
+}
